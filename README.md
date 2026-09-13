@@ -36,7 +36,7 @@ Pagamentos: Registro dos pagamentos atrelados aos pedidos (Ex: Cartão de Crédi
 ├── docs/
 │   ├── Dicionario_de_Dados_Ecommerce.md  # Especificação detalhada de tabelas e campos
 │   ├── modelos/                          # Arquivos fontes editáveis do brModelo (.brM3)
-│   │   ├── Conceitual_1-E_commerce.brM3
+│   │   ├── modelo-conceitual.brM3
 │   │   └── Logico_Ecommerce.brM3
 │   └── imagens/                          # Exportações visuais para documentação (.png)
 │       ├── modelo-conceitual.png
