@@ -315,11 +315,7 @@ Exemplos de formas de pagamento:
 │   ├── modelos/                          # Arquivos fontes editáveis do brModelo (.brM3)
 │   │   ├── modelo-conceitual.brM3
 │   │   └── modelo-logico.brM3
-<<<<<<< HEAD
-│   └── imagens/                          # Exportações visuais para documentação (.png)
-=======
 │   └── imagens/                          # Exportações visuais do diagrama (.png)
->>>>>>> fe752e9373972d50f873992bf4c03116d086eacf
 │       ├── modelo-conceitual.png
 │       └── modelo-logico.png
 ├── database/
