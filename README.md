@@ -34,7 +34,6 @@ O projeto contempla desde a definição das regras de negócio até a construç�
 
 ## Objetivo do Projeto
 
-<<<<<<< HEAD
 O objetivo deste projeto é desenvolver uma estrutura de banco de dados **organizada, consistente e normalizada** para suportar as principais operações de uma plataforma de comércio eletrônico. 
 
 A modelagem foi desenvolvida para centralizar e estruturar informações relacionadas a:
