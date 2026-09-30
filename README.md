@@ -2,7 +2,6 @@
 
 ![Database](https://img.shields.io/badge/Database-Relational-blue)
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
-<<<<<<< HEAD
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
@@ -26,12 +25,10 @@ O projeto contempla desde a definição das regras de negócio até a construç�
 - [Desafios e Aprendizados](#-desafios-e-aprendizados)
 - [Estrutura do Repositório](#-estrutura-do-repositório)
 - [Contato](#-contato)
-=======
 
 Projeto de **modelagem e projeto de banco de dados relacional** para uma plataforma de **E-Commerce**, desenvolvido com foco na aplicação prática de conceitos de modelagem conceitual, modelo lógico, normalização, relacionamentos, cardinalidade e implementação SQL.
 
 O projeto contempla desde a definição das regras de negócio até a construção do modelo conceitual, modelo lógico, dicionário de dados e estrutura do banco de dados.
->>>>>>> fe752e9373972d50f873992bf4c03116d086eacf
 
 ---
 
@@ -159,7 +156,7 @@ Durante o desenvolvimento deste projeto, os principais conceitos aplicados e des
  **Normalização na Prática:** A transição do modelo conceitual para o lógico exigiu a aplicação das Formas Normais (1FN, 2FN e 3FN), resultando na criação de entidades separadas para Endereços (entidade fraca) e Telefones (atributo multivalorado).
 
 **Preservação de Histórico Financeiro:** A decisão de incluir o campo `preco_unitario` na tabela `Itens_Pedido` foi um aprendizado crucial para entender como proteger dados de compras passadas contra atualizações futuras de valores no catálogo de produtos.
-=======
+
 O objetivo deste projeto é desenvolver uma estrutura de banco de dados **organizada, consistente e normalizada** para suportar as principais operações de uma plataforma de comércio eletrônico.
 
 A modelagem foi desenvolvida para centralizar e estruturar informações relacionadas a:
@@ -174,7 +171,6 @@ A modelagem foi desenvolvida para centralizar e estruturar informações relacio
 - Pagamentos.
 
 O projeto busca aplicar conceitos fundamentais de **Modelagem de Dados**, **Modelo Entidade-Relacionamento (MER)**, **Modelo Relacional**, **Cardinalidade**, **Normalização** e **SQL/DDL**.
->>>>>>> fe752e9373972d50f873992bf4c03116d086eacf
 
 ---
 
